@@ -1,0 +1,29 @@
+{
+  "name": "add-azure-secrets",
+  "version": "1.0.0",
+  "description": "Add secrets to azure key vault",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrpatilcse/azure-key-valut.git"
+  },
+  "keywords": [
+    "secret",
+    "secrets",
+    "azure-key-vault",
+    "add-secrets"
+  ],
+  "author": "Rahul Patil <rahulp884@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rrpatilcse/azure-key-valut/issues"
+  },
+  "homepage": "https://github.com/rrpatilcse/azure-key-valut#readme",
+  "dependencies": {
+    "adal-node": "^0.1.28",
+    "azure-keyvault": "^3.0.4"
+  }
+}
