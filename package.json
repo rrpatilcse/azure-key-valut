@@ -1,6 +1,6 @@
 {
   "name": "add-azure-secrets",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Add secrets to azure key vault",
   "main": "index.js",
   "scripts": {
