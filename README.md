@@ -18,7 +18,7 @@ We use [SemVer](http://semver.org/) for versioning.
 ## Example
 
 ```
-let secretClient = require('add-secret');
+let secretClient = require('add-azure-secrets');
 
 async function configureKeyVaultValues() {
     let secrets = [
