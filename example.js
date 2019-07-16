@@ -1,4 +1,4 @@
-let secretClient = require('add-secret');
+let secretClient = require('add-azure-secrets');
 
 async function configureKeyVaultValues() {
     let secrets = [
